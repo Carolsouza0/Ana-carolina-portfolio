@@ -4,7 +4,7 @@ Estudante de Engenharia da Computação com foco em UI/UX Design.
 Crio interfaces que unem raciocínio técnico e experiência do usuário.
 
 ## 🔗 Acesse o portfólio
-👉 file:///C:/Users/carol/Downloads/Portifólio/portfolio%20Inicio.html
+👉 https://carolsouza0.github.io/Ana-carolina-portfolio/
 
 ## 📁 Projetos
 | Projeto | Tipo | Ferramenta |
